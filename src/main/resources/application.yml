@@ -1,0 +1,4 @@
+server:
+  tomcat:
+    threads:
+      max: 3   # tomcat 工作线程池最大线程数
